@@ -1,7 +1,7 @@
 {
   "location": [
     {
-      "url": "https://fearlessleader.github.io/sample-api-data/random-quotes/quotes.json"
+      "url": "https://fearlessleader.github.io/sample-api-data/random_quotes/quotes.json"
     }
   ],
   "quotes": [
