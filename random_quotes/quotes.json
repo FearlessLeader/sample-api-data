@@ -126,7 +126,7 @@
       "author": "Arthur Ashe"
     },
     {
-      "quote": "To love. To be loved. To never forget your own insignificance. To never get used to the unspeakable violence and the vulgar disparity of life around you. To seek joy in the saddest places. To pursue beauty to its lair. To never simplify what is complicated or complicate what is simple. To respect strength, never power. Above all, to watch. To try and understand. To never look away. And never, never to forget.",
+      "quote": "The only dream worth having is to dream that you will live while you are alive, and die only when you are dead. To love. To be loved. To never forget your own insignificance. To never get used to the unspeakable violence and the vulgar disparity of life around you. To seek joy in the saddest places. To pursue beauty to its lair. To never simplify what is complicated or complicate what is simple. To respect strength, never power. Above all, to watch. To try and understand. To never look away. And never, never to forget.",
       "author": "Arundhati Roy, The Cost of Living"
     },
     {
@@ -167,7 +167,7 @@
     },
     {
       "quote": "Crazy Horse dreamed and went into the world where there is nothing but the spirits of all things. That is the real world that is behind this one, and everything we see here is something like a shadow from that one.",
-      "author": "Black Elk"
+      "author": "Black Elk, Black Elk Speaks"
     },
     {
       "quote": "What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
@@ -430,11 +430,21 @@
       "author": "Henry Wadsworth Longfellow"
     },
     {
-      "quote": "In the fell clutch of circumstance; I have not winced nor cried aloud. Under the bludgeonings of chance; My head is bloody, but unbowed.",
+      "quote": [
+        "In the fell clutch of circumstance",
+        "I have not winced nor cried aloud.",
+        "Under the bludgeonings of chance",
+        "My head is bloody, but unbowed."
+      ],
       "author": "Invictus by William Ernest Henley"
     },
     {
-      "quote": "It matters not how strait the gate, How charged with punishments the scroll, I am the master of my fate: I am the captain of my soul.",
+      "quote": [
+        "It matters not how strait the gate,",
+        "How charged with punishments the scroll,",
+        "I am the master of my fate:",
+        "I am the captain of my soul."
+      ],
       "author": "Invictus by William Ernest Henley"
     },
     {
@@ -450,7 +460,16 @@
       "author": "Jalāl ad-Dīn Muhammad Rūmī"
     },
     {
-      "quote": "The breezes at dawn have secrets to tell you Don't go back to sleep! You must ask for what you really want. Don't go back to sleep! People are going back and forth across the doorsill where the two worlds touch, The door is round and open Don't go back to sleep!",
+      "quote": [
+        "The breezes at dawn have secrets to tell you",
+        "Don't go back to sleep!",
+        "You must ask for what you really want.",
+        "Don't go back to sleep!",
+        "People are going back and forth",
+        "across the doorsill where the two worlds touch,",
+        "The door is round and open",
+        "Don't go back to sleep!"
+      ],
       "author": "Jalāl ad-Dīn Muhammad Rūmī"
     },
     {
@@ -462,7 +481,12 @@
       "author": "Jalāl ad-Dīn Muhammad Rūmī"
     },
     {
-      "quote": "Knock, And He'll open the door Vanish, And He'll make you shine like the sun Fall, And He'll raise you to the heavens. Become nothing, And He'll turn you into everything.",
+      "quote": [
+        "Knock, And He'll open the door",
+        "Vanish, And He'll make you shine like the sun",
+        "Fall, And He'll raise you to the heavens.",
+        "Become nothing, And He'll turn you into everything."
+      ],
       "author": "Jalāl ad-Dīn Muhammad Rūmī,"
     },
     {
@@ -527,7 +551,7 @@
     },
     {
       "quote": "Those who know do not speak. Those who speak do not know.",
-      "author": "Lao Tsu, Tao Teh Ching"
+      "author": "Lao Tsu, Tao Te Ching"
     },
     {
       "quote": "A good traveler has no fixed plans and is not intent on arriving.",
@@ -542,8 +566,16 @@
       "author": "Lao Tzu"
     },
     {
-      "quote": "Simplicity, patience, compassion. These three are your greatest treasures. Simple in actions and thoughts, you return to the source of being. Patient with both friends and enemies, you accord with the way things are. Compassionate toward yourself, you reconcile all beings in the world.",
-      "author": "Lao Tzu, Tao Teh Ching"
+      "quote": [
+        "Simplicity, patience, compassion.",
+        "These three are your greatest treasures.",
+        "Simple in actions and thoughts, you return to the source of being.",
+        "Patient with both friends and enemies,",
+        "you accord with the way things are.",
+        "Compassionate toward yourself,",
+        "you reconcile all beings in the world."
+      ],
+      "author": "Lao Tzu, Tao Te Ching"
     },
     {
       "quote": "If the wind will not serve, take to the oars.",
@@ -826,7 +858,7 @@
       "author": "Tim Robbins as Andy Dufresne"
     },
     {
-      "quote": "My mom always said life was like a box of chocolates. You never know what you're gonna get.",
+      "quote": "My mom always said life is like a box of chocolates. You never know what you're gonna get.",
       "author": "Tom Hanks as Forrest Gump"
     },
     {
